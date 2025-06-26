@@ -30,4 +30,4 @@ const config = {
     }
 }
 
-module.exports = config;example.config.js
+module.exports = config;
