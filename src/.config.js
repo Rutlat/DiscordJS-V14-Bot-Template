@@ -1,4 +1,3 @@
-
 const config = {
     database: {
         path: './database.yml' // The database path.
