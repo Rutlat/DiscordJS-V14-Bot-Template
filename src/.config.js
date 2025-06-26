@@ -1,0 +1,1 @@
+https://github.com/Rutlat/DiscordJS-V14-Bot-Template/blob/main/src/example.config.js
